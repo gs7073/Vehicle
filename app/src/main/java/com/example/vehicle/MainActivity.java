@@ -43,12 +43,12 @@ class Car extends Vehicle
 
     String accelerate()
     {
-        return "car speeding up";
+        return "car is speeding up";
     }
 
     String stop()
     {
-        return "car stopped";
+        return "car  stopped";
     }
 }
 
